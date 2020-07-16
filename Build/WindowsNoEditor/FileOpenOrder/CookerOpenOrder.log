@@ -1,864 +1,580 @@
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/GemBlue.uasset" 0
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/GemGreen.uasset" 1
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/GemPurple.uasset" 2
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/GemRed.uasset" 3
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/2DBackgroundTile.uasset" 4
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/2DBackgroundTile.uasset" 5
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Materials/Sprite_Mat.uasset" 6
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/BurningGrass.uasset" 7
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Grass_Dirt/BurningGrass_Sprite.uasset" 8
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/BurningGrass_Sprite.uasset" 9
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/BurntGrass.uasset" 10
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Grass_Dirt/BurntGrass_Sprite.uasset" 11
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/BurntGrass_Sprite.uasset" 12
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/CowFAttack1.uasset" 13
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowFAttack1_Sprite.uasset" 14
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/CowFAttack1_Sprite.uasset" 15
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/CowFAttack2.uasset" 16
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowFAttack2_Sprite.uasset" 17
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/CowFAttack2_Sprite.uasset" 18
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/CowFAttack3.uasset" 19
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowFAttack3_Sprite.uasset" 20
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/CowFAttack3_Sprite.uasset" 21
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/CowFNeutral.uasset" 22
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowFNeutral_Sprite.uasset" 23
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/CowFNeutral_Sprite.uasset" 24
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/CowMAttack1.uasset" 25
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowMAttack1_Sprite.uasset" 26
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/CowMAttack1_Sprite.uasset" 27
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/CowMAttack2.uasset" 28
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowMAttack2_Sprite.uasset" 29
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/CowMAttack2_Sprite.uasset" 30
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/CowMAttack3.uasset" 31
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowMAttack3_Sprite.uasset" 32
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/CowMAttack3_Sprite.uasset" 33
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/CowMNeutral.uasset" 34
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowMNeutral_Sprite.uasset" 35
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/CowMNeutral_Sprite.uasset" 36
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/DeathParticle_Sprite.uasset" 37
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/Dirt.uasset" 38
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Grass_Dirt/Dirt_Sprite.uasset" 39
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Dirt_Sprite.uasset" 40
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fire/FireL1_Sprite.uasset" 41
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fire/FireL2_Sprite.uasset" 42
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fire/FireL.uasset" 43
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/FireL.uasset" 44
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fire/FireM1_Sprite.uasset" 45
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fire/FireM2_Sprite.uasset" 46
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fire/FireM.uasset" 47
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/FireM.uasset" 48
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fire/FireS1_Sprite.uasset" 49
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fire/FireS2_Sprite.uasset" 50
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fire/FireS.uasset" 51
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/FireS.uasset" 52
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 53
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/Grass.uasset" 54
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Grass_Dirt/Grass_Sprite1.uasset" 55
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Grass_Sprite1.uasset" 56
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/HouseR.uasset" 57
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/HouseR_Sprite.uasset" 58
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/HouseR_Sprite.uasset" 59
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/IdleAnimation.uasset" 60
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/NewPaperFlipbook.uasset" 61
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/NewPaperFlipbook1.uasset" 62
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Platform.uasset" 63
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/PrototypingSprite.uasset" 64
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/RunningAnimation.uasset" 65
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/TunnelThrough_Sprite.uasset" 66
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Grass_Dirt/Spawn_Dirt_Sprite.uasset" 67
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/FireL1.uasset" 68
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/FireL2.uasset" 69
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/FireM1.uasset" 70
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/FireM2.uasset" 71
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/FireS1.uasset" 72
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/FireS2.uasset" 73
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/GuyLLF.uasset" 74
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/GuyRLF.uasset" 75
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/2DCharacter_IdleAnimAtlas.uasset" 76
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset" 77
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/2DCharacter_RunAnimAtlas.uasset" 78
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset" 79
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Background.uasset" 80
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Bee1.uasset" 81
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Bee2.uasset" 82
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BrokenHeart.uasset" 83
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurningGrass.uasset" 84
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurningHouseG1.uasset" 85
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurningHouseG2.uasset" 86
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurningHouseGC1.uasset" 87
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurningHouseGC2.uasset" 88
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurningHouseR1.uasset" 89
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurningHouseR2.uasset" 90
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurningHouseRC1.uasset" 91
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurningHouseRC2.uasset" 92
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurntGrass.uasset" 93
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurntHouse.uasset" 94
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurntHouse1.uasset" 95
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurntHouse2.uasset" 96
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurntHouseC.uasset" 97
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurntHouseC1.uasset" 98
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurntHouseC2.uasset" 99
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurntTree.uasset" 100
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurntTreeHiveLeft.uasset" 101
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/BurntTreeHiveRight.uasset" 102
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/DeathParticle.uasset" 103
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Dirt.uasset" 104
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/DirtSlant.uasset" 105
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/DirtTriangle.uasset" 106
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/FireBall1.uasset" 107
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Fireball2.uasset" 108
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/FireL1.uasset" 109
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/FireL2.uasset" 110
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/FireM1.uasset" 111
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/FireM2.uasset" 112
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/FireS1.uasset" 113
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/FireS2.uasset" 114
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Gem.uasset" 115
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Grass.uasset" 116
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/GrasSlant.uasset" 117
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Guy2.uasset" 118
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Heart.uasset" 119
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/HeartIncrease.uasset" 120
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/HouseGC.uasset" 121
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/HouseGC_Sprite.uasset" 122
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/HouseGC_Sprite.uasset" 123
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/HouseGC_Sprite.uasset" 124
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/LongGrass.uasset" 125
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/platform.uasset" 126
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Platform2.uasset" 127
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Platform3.uasset" 128
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFa1.uasset" 129
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFa2.uasset" 130
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFb1.uasset" 131
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFb2.uasset" 132
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFHLa1.uasset" 133
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFHLa2.uasset" 134
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFHLb1.uasset" 135
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFHLb2.uasset" 136
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFHRa1.uasset" 137
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFHRa2.uasset" 138
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFHRb1.uasset" 139
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TFHRb2.uasset" 140
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Tree.uasset" 141
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TreeHiveLeft.uasset" 142
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TreeHiveRight.uasset" 143
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TunnelBack.uasset" 144
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TunnelEnd.uasset" 145
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TunnelFront.uasset" 146
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/TunnelThrough.uasset" 147
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 148
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/BG.uasset" 149
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/BG_Mat.uasset" 150
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 151
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Sprites/Healthbar.uasset" 152
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Sprites/stam.uasset" 153
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Sprites/stam2.uasset" 154
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Sprites/Untitled.uasset" 155
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/Health.uasset" 156
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 157
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fireball/FireBall1_Sprite.uasset" 158
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fireball/Fireball2_Sprite.uasset" 159
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fireball/Fireball_Flipbook.uasset" 160
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/Fireball_BP.uasset" 161
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Bee1_Sprite.uasset" 162
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Bee2_Sprite.uasset" 163
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Bee_Flipbook.uasset" 164
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/BeeCharacter_BP.uasset" 165
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowfAttack_Flipbook1.uasset" 166
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowFNeutral_Flipbook1.uasset" 167
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/CowFCharacter_BP.uasset" 168
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowMAttack_Flipbook.uasset" 169
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/COw/CowMNeutral_Flipbook.uasset" 170
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/CowMCharacter_BP.uasset" 171
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Platform1_Sprite.uasset" 172
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Platform2_Sprite.uasset" 173
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Platform3_Sprite.uasset" 174
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Platform_Flipbook.uasset" 175
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/platform_Sprite.uasset" 176
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/Platform_BP.uasset" 177
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/GuyAttack1.uasset" 178
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/GuyAttack1_Sprite.uasset" 179
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/GuyAttack2.uasset" 180
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/GuyAttack2_Sprite.uasset" 181
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/GuyAttack3.uasset" 182
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/GuyAttack3_Sprite.uasset" 183
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/Guy2.uasset" 184
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/Guy2_Sprite.uasset" 185
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/Guy2_Sprite.uasset" 186
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/Attack_Flipbook.uasset" 187
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/GuyLLF.uasset" 188
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/GuyLLF_Sprite.uasset" 189
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/GuyRLF.uasset" 190
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/GuyRLF_Sprite.uasset" 191
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/Guy_Flipbook.uasset" 192
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/Guy.uasset" 193
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/Guy_Sprite.uasset" 194
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/Guy_Sprite.uasset" 195
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/idle.uasset" 196
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/GuyJump.uasset" 197
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/GuyJump_Sprite.uasset" 198
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Guy/Jump.uasset" 199
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Platform1.uasset" 200
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/platform.uasset" 201
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 202
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseG1_Sprite.uasset" 203
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseG2_Sprite.uasset" 204
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseG_Flipbook.uasset" 205
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouse1_Sprite.uasset" 206
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouse2_Sprite.uasset" 207
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouse_Flipbook.uasset" 208
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouse_Sprite.uasset" 209
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/HouseG.uasset" 210
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/HouseG_Sprite.uasset" 211
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/HouseG_BP.uasset" 212
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/NewWidgetBlueprint.uasset" 213
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Basic_Wall.uasset" 214
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/Pillar_50x500.uasset" 215
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/Wall_400x300.uasset" 216
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/Wall_400x400.uasset" 217
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/Wall_500x500.uasset" 218
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 219
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 220
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Collapse01.uasset" 221
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Collapse02.uasset" 222
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Explosion01.uasset" 223
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Explosion02.uasset" 224
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Fire01.uasset" 225
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Fire_Sparks01.uasset" 226
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Light01.uasset" 227
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Light01_Cue.uasset" 228
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Light02.uasset" 229
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Light02_Cue.uasset" 230
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Smoke01.uasset" 231
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Starter_Birds01.uasset" 232
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Starter_Music01.uasset" 233
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Starter_Wind05.uasset" 234
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Starter_Wind06.uasset" 235
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Steam01.uasset" 236
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Explosion_Cue.uasset" 237
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Burst_M.uasset" 238
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/Materials/M_Burst.uasset" 239
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 240
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 241
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 242
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 243
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 244
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 245
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 246
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 247
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/P_Explosion.uasset" 248
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 249
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 250
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 251
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Bush_D.uasset" 252
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Bush_N.uasset" 253
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_Bush.uasset" 254
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_Bush.uasset" 255
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Chair_M.uasset" 256
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Chair_N.uasset" 257
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_Chair.uasset" 258
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_Couch.uasset" 259
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Glass.uasset" 260
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Door_M.uasset" 261
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Door_N.uasset" 262
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_Door.uasset" 263
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_Door.uasset" 264
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 265
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 266
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 267
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 268
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 269
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 270
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_RockMesh_M.uasset" 271
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_RockMesh_N.uasset" 272
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_Rock.uasset" 273
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_Rock.uasset" 274
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Shelf_M.uasset" 275
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Shelf_N.uasset" 276
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_Shelf.uasset" 277
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_Shelf.uasset" 278
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Basic_Floor.uasset" 279
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_Stairs.uasset" 280
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Cone.uasset" 281
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 282
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 283
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Pipe.uasset" 284
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 285
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 286
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Plane.uasset" 287
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Torus.uasset" 288
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Trim.uasset" 289
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 290
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 291
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 292
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Tube.uasset" 293
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 294
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 295
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 296
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Bee/Bee1.uasset" 297
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Bee/Bee2.uasset" 298
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Cow/CowFAttack1.uasset" 299
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Cow/CowFAttack2.uasset" 300
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Cow/CowFAttack3.uasset" 301
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Cow/CowFNeutral.uasset" 302
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Cow/CowMAttack1.uasset" 303
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Cow/CowMAttack2.uasset" 304
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Cow/CowMAttack3.uasset" 305
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Cow/CowMNeutral.uasset" 306
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/FireBall1.uasset" 307
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/Fireball2.uasset" 308
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/FireL1.uasset" 309
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/FireL2.uasset" 310
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/FireM1.uasset" 311
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/FireM2.uasset" 312
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/FireS1.uasset" 313
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/FireS2.uasset" 314
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/Platform1.uasset" 315
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/Platform2.uasset" 316
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Fire/Platform3.uasset" 317
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Ground/BurningGrass.uasset" 318
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Ground/BurntGrass.uasset" 319
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Ground/Dirt.uasset" 320
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Ground/Grass.uasset" 321
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Guy/Guy.uasset" 322
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Guy/Guy2.uasset" 323
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Guy/GuyAttack1.uasset" 324
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Guy/GuyAttack2.uasset" 325
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Guy/GuyAttack3.uasset" 326
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Guy/GuyJump.uasset" 327
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Guy/GuyLLF.uasset" 328
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Guy/GuyRLF.uasset" 329
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Houses/HouseG.uasset" 330
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Houses/HouseGC.uasset" 331
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Houses/HouseGCI.uasset" 332
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Houses/HouseGI.uasset" 333
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Houses/HouseRC.uasset" 334
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Houses/HouseRCI.uasset" 335
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Houses/HouseRI.uasset" 336
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Houses/Untitled.uasset" 337
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Trees/Tree.uasset" 338
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Trees/TreeHiveLeft.uasset" 339
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Color_adjusted/Trees/TreeHiveRight.uasset" 340
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/Gimp/Guy/GuyAttack3.uasset" 341
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Bee/Bee1.uasset" 342
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Bee/Bee2.uasset" 343
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Cow/CowFAttack1.uasset" 344
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Cow/CowFAttack2.uasset" 345
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Cow/CowFAttack3.uasset" 346
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Cow/CowFNeutral.uasset" 347
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Cow/CowMAttack1.uasset" 348
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Cow/CowMAttack2.uasset" 349
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Cow/CowMAttack3.uasset" 350
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Cow/CowMNeutral.uasset" 351
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/FireBall1.uasset" 352
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/Fireball2.uasset" 353
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/FireL1.uasset" 354
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/FireL2.uasset" 355
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/FireM1.uasset" 356
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/FireM2.uasset" 357
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/FireS1.uasset" 358
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/FireS2.uasset" 359
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/Platform1.uasset" 360
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/Platform2.uasset" 361
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Fire/Platform3.uasset" 362
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Ground/BurningGrass.uasset" 363
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Ground/BurntGrass.uasset" 364
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Ground/Dirt.uasset" 365
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Ground/Grass.uasset" 366
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Guy/Guy.uasset" 367
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Guy/Guy2.uasset" 368
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Guy/GuyAttack1.uasset" 369
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Guy/GuyAttack2.uasset" 370
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Guy/GuyAttack3.uasset" 371
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Guy/GuyJump.uasset" 372
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Guy/GuyLLF.uasset" 373
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Guy/GuyRLF.uasset" 374
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Houses/HouseG.uasset" 375
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Houses/HouseGC.uasset" 376
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Houses/HouseGCI.uasset" 377
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Houses/HouseGI.uasset" 378
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Houses/HouseR.uasset" 379
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Houses/HouseRC.uasset" 380
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Houses/HouseRCI.uasset" 381
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Houses/HouseRI.uasset" 382
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Trees/Tree.uasset" 383
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Trees/TreeHiveLeft.uasset" 384
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Textures/Devastation/No_Color_Change/Trees/TreeHiveRight.uasset" 385
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 386
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 387
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 388
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 389
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 390
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 391
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 392
-"../../../Engine/Content/BasicShapes/Cone.uasset" 393
-"../../../Engine/Content/BasicShapes/Cube.uasset" 394
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 395
-"../../../Engine/Content/BasicShapes/Plane.uasset" 396
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 397
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 398
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 399
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 400
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 401
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 402
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 403
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 404
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 405
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 406
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 407
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 408
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 409
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 410
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 411
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 412
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 413
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 414
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 415
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 416
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 417
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 418
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 419
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 420
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 421
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 422
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 423
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 424
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 425
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 426
-"../../../Engine/Content/EditorResources/S_Note.uasset" 427
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 428
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 429
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 430
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 431
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 432
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 433
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 434
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 435
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 436
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 437
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 438
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 439
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 440
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 441
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 442
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 443
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 444
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 445
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 446
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 447
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 448
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 449
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 450
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 451
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 452
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 453
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 454
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 455
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 456
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 457
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 458
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 459
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 460
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 461
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 462
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 463
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 464
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 465
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 466
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 467
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 468
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 469
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 470
-"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 471
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 472
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 473
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 474
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 475
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 476
-"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 477
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 478
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 479
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 480
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 481
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 482
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 483
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 484
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 485
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 486
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 487
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 488
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 489
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 490
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 491
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 492
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 493
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 494
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 495
-"../../../Engine/Content/EngineResources/Black.uasset" 496
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 497
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 498
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 499
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 500
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 501
-"../../../Engine/Content/EngineSounds/Master.uasset" 502
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 503
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 504
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 505
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 506
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 507
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 508
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 509
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 510
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 511
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 512
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 513
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 514
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 515
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 516
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 517
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 518
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 519
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 520
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 521
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 522
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 523
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 524
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 525
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 526
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 527
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 528
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 529
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 530
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 531
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 532
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 533
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 534
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 535
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 536
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 537
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 538
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 539
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 540
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 541
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 542
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 543
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 544
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 545
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 546
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 547
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 548
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 549
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 550
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 551
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 552
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 553
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 554
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 555
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 556
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" 557
-"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 558
-"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 559
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 560
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/2DBackground.uasset" 561
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2dSideScroller/Textures/2DBackground.uasset" 562
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Background_Sprite.uasset" 563
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Textures/2DBackgroundBlockAtlas.uasset" 564
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2dSideScroller/Textures/2DBackgroundBlockAtlas.uasset" 565
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Ledge.uasset" 566
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 567
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/Grass_BP.uasset" 568
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseGC1_Sprite.uasset" 569
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseGC2_Sprite.uasset" 570
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseGC_Flipbook.uasset" 571
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouseC1_Sprite.uasset" 572
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouseC2_Sprite.uasset" 573
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouseC_Flipbook1.uasset" 574
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouseC_Sprite.uasset" 575
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/HouseGC_BP.uasset" 576
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseR1_Sprite.uasset" 577
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseR2_Sprite.uasset" 578
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseR_Flipbook.uasset" 579
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/HouseR_BP.uasset" 580
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/BurntTree_Sprite.uasset" 581
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/Tree_Sprite.uasset" 582
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFa1_Sprite.uasset" 583
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFa2_Sprite.uasset" 584
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireA_Flipbook.uasset" 585
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFb1_Sprite.uasset" 586
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFb2_Sprite.uasset" 587
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireB_Flipbook1.uasset" 588
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/Tree_BP.uasset" 589
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Maps/Map_BuiltData.uasset" 590
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/TunnelBack_Sprite.uasset" 591
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/TunnelEnd_Sprite.uasset" 592
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/TunnelFront_Sprite.uasset" 593
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Background_Sprite.uasset" 594
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/cliff-text.uasset" 595
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Fire/FireL1.uasset" 596
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/Guy.uasset" 597
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/loading.uasset" 598
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/parkour-tutorial.uasset" 599
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/parkour-tutorial2.uasset" 600
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/text1.uasset" 601
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/text2.uasset" 602
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/soundtrack.uasset" 603
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/soundtrack_Cue.uasset" 604
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Maps/Map.umap" 605
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/text3.uasset" 606
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/text4.uasset" 607
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Maps/map2.umap" 608
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/BurntTreeHiveLeft_Sprite.uasset" 609
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFHLa1_Sprite.uasset" 610
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFHLa2_Sprite.uasset" 611
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireLeftHiveA_Flipbook2.uasset" 612
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFHLb1_Sprite.uasset" 613
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFHLb2_Sprite.uasset" 614
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireLeftHiveB_Flipbook3.uasset" 615
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TreeHiveLeft_Sprite.uasset" 616
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/TreeHiveLeft_BP.uasset" 617
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Textures/HouseRC.uasset" 618
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/HouseRC_Sprite.uasset" 619
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/text5.uasset" 620
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Maps/map3.umap" 621
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/BurntTreeHiveRight_Sprite.uasset" 622
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFHRa1_Sprite.uasset" 623
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFHRa2_Sprite.uasset" 624
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireRightHiveA_Flipbook4.uasset" 625
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFHRb1_Sprite.uasset" 626
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TFHRb2_Sprite.uasset" 627
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireRightHiveB_Flipbook5.uasset" 628
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Trees/TreeHiveRight_Sprite.uasset" 629
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/TreeHiveRight_BP.uasset" 630
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/GemRed_Sprite.uasset" 631
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/poem.uasset" 632
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/text6.uasset" 633
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Maps/map4.umap" 634
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/GemGreen_Sprite.uasset" 635
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/text7.uasset" 636
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Maps/map5.umap" 637
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/GemPurple_Sprite.uasset" 638
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/text8.uasset" 639
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Maps/map6.umap" 640
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseRC1_Sprite.uasset" 641
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseRC2_Sprite.uasset" 642
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseRC_Flipbook.uasset" 643
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScrollerBP/Blueprints/HouseRC_BP.uasset" 644
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/2DSideScroller/GemBlue_Sprite.uasset" 645
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/text9.uasset" 646
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Maps/map7.umap" 647
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/end.uasset" 648
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/HUD/text10.uasset" 649
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/Devastation/Maps/Map8.umap" 650
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 651
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 652
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 653
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 654
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 655
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 656
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 657
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 658
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 659
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 660
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 661
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 662
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 663
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_AssetPlatform.uasset" 664
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 665
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 666
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 667
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 668
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 669
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 670
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 671
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 672
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Maps/Advanced_Lighting.umap" 673
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 674
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 675
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 676
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 677
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 678
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 679
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 680
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 681
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 682
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 683
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_MacroVariation.uasset" 684
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 685
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 686
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 687
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 688
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 689
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Metal_Copper.uasset" 690
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Statue_M.uasset" 691
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Statue_N.uasset" 692
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 693
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/Floor_400x400.uasset" 694
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 695
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_Chair.uasset" 696
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_Statue.uasset" 697
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_Statue.uasset" 698
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_TableRound_M.uasset" 699
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_TableRound_N.uasset" 700
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_TableRound.uasset" 701
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_TableRound.uasset" 702
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Maps/Minimal_Default.umap" 703
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Fire01_Cue.uasset" 704
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 705
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 706
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 707
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Water_N.uasset" 708
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 709
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 710
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/P_Fire.uasset" 711
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 712
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Smoke01_Cue.uasset" 713
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/P_Smoke.uasset" 714
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 715
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 716
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Spark_Core.uasset" 717
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/Materials/M_Spark.uasset" 718
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/P_Sparks.uasset" 719
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 720
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Steam01_Cue.uasset" 721
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/P_Steam_Lit.uasset" 722
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 723
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Lamp_M.uasset" 724
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Lamp_N.uasset" 725
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_Lamp.uasset" 726
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 727
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 728
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 729
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 730
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 731
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 732
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 733
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 734
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 735
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 736
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 737
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 738
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 739
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 740
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 741
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 742
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 743
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 744
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 745
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 746
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 747
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 748
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 749
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 750
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 751
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 752
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 753
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 754
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 755
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 756
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 757
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 758
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 759
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 760
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 761
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 762
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Gradinet_01.uasset" 763
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 764
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 765
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 766
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 767
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 768
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 769
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 770
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 771
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 772
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 773
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 774
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 775
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 776
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 777
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 778
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 779
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 780
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 781
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 782
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 783
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 784
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 785
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Ground_Grass.uasset" 786
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 787
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 788
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 789
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 790
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 791
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Ground_Moss.uasset" 792
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 793
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 794
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Metal_Gold.uasset" 795
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 796
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Metal_Rust.uasset" 797
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 798
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 799
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Metal_Steel.uasset" 800
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 801
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 802
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 803
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 804
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 805
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 806
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 807
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 808
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Rock_Slate.uasset" 809
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 810
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 811
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 812
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 813
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 814
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 815
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 816
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 817
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 818
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 819
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 820
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Tech_Panel.uasset" 821
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Water_Lake.uasset" 822
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Water_M.uasset" 823
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Water_Ocean.uasset" 824
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 825
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 826
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 827
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 828
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 829
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 830
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 831
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 832
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Wood_Oak.uasset" 833
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 834
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 835
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Wood_Pine.uasset" 836
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 837
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 838
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 839
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/Wall_400x200.uasset" 840
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 841
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 842
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Collapse_Cue.uasset" 843
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 844
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 845
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 846
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 847
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/MaterialSphere.uasset" 848
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Frame_M.uasset" 849
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Textures/T_Frame_N.uasset" 850
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/Materials/M_Frame.uasset" 851
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_CornerFrame.uasset" 852
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_DoorFrame.uasset" 853
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_GlassWindow.uasset" 854
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_PillarFrame.uasset" 855
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_PillarFrame300.uasset" 856
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Props/SM_WindowFrame.uasset" 857
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Cube.uasset" 858
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 859
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Shapes/Shape_Sphere.uasset" 860
-"C:/Users/eduar/Documents/Unreal Projects/Devastation/Content/StarterContent/Maps/StarterMap.umap" 861
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 862
-"../../../Engine/Content/Maps/Entry.umap" 863
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/Sprites/Healthbar.uasset" 1
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/Sprites/stam.uasset" 2
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/Sprites/stam2.uasset" 3
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/Sprites/Untitled.uasset" 4
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/Health.uasset" 5
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 6
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fireball/FireBall1_Sprite.uasset" 7
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fireball/Fireball2_Sprite.uasset" 8
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fireball/Fireball_Flipbook.uasset" 9
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/Fireball_BP.uasset" 10
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Bee1_Sprite.uasset" 11
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Bee2_Sprite.uasset" 12
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Bee_Flipbook.uasset" 13
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/BeeCharacter_BP.uasset" 14
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/CowFAttack1.uasset" 15
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowFAttack1_Sprite.uasset" 16
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/CowFAttack2.uasset" 17
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowFAttack2_Sprite.uasset" 18
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/CowFAttack3.uasset" 19
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowFAttack3_Sprite.uasset" 20
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowfAttack_Flipbook1.uasset" 21
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/CowFNeutral.uasset" 22
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowFNeutral_Sprite.uasset" 23
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowFNeutral_Flipbook1.uasset" 24
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/CowFCharacter_BP.uasset" 25
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/CowMAttack1.uasset" 26
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowMAttack1_Sprite.uasset" 27
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/CowMAttack2.uasset" 28
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowMAttack2_Sprite.uasset" 29
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/CowMAttack3.uasset" 30
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowMAttack3_Sprite.uasset" 31
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowMAttack_Flipbook.uasset" 32
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/CowMNeutral.uasset" 33
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowMNeutral_Sprite.uasset" 34
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/COw/CowMNeutral_Flipbook.uasset" 35
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/CowMCharacter_BP.uasset" 36
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Platform1_Sprite.uasset" 37
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Platform2_Sprite.uasset" 38
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Platform3_Sprite.uasset" 39
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Platform_Flipbook.uasset" 40
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/platform_Sprite.uasset" 41
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/Platform_BP.uasset" 42
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/GuyAttack1.uasset" 43
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/GuyAttack1_Sprite.uasset" 44
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/GuyAttack2.uasset" 45
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/GuyAttack2_Sprite.uasset" 46
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/GuyAttack3.uasset" 47
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/GuyAttack3_Sprite.uasset" 48
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/Attack_Flipbook.uasset" 49
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Materials/Sprite_Mat.uasset" 50
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/GuyLLF.uasset" 51
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/GuyLLF_Sprite.uasset" 52
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/GuyRLF.uasset" 53
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/GuyRLF_Sprite.uasset" 54
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/Guy_Flipbook.uasset" 55
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/idle.uasset" 56
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/GuyJump.uasset" 57
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/GuyJump_Sprite.uasset" 58
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/Jump.uasset" 59
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/Platform1.uasset" 60
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/platform.uasset" 61
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 62
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/BurntTreeHiveRight_Sprite.uasset" 63
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFHRa1_Sprite.uasset" 64
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFHRa2_Sprite.uasset" 65
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireRightHiveA_Flipbook4.uasset" 66
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFHRb1_Sprite.uasset" 67
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFHRb2_Sprite.uasset" 68
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireRightHiveB_Flipbook5.uasset" 69
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TreeHiveRight_Sprite.uasset" 70
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/TreeHiveRight_BP.uasset" 71
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 72
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 73
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 74
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 75
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 76
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 77
+"../../../Engine/Content/BasicShapes/Cone.uasset" 78
+"../../../Engine/Content/BasicShapes/Cube.uasset" 79
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 80
+"../../../Engine/Content/BasicShapes/Plane.uasset" 81
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 82
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 83
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 84
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 85
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 86
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 87
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 88
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 89
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 90
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 91
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 92
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 94
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 95
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 96
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 97
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 98
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 99
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 100
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 101
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 102
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 103
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 104
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 105
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 106
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 107
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 108
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 109
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 110
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 111
+"../../../Engine/Content/BufferVisualization/Velocity.uasset" 112
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 113
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 114
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 115
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 116
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 117
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 118
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 119
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 120
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 121
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 122
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 123
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 125
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 126
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 129
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 130
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 132
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 134
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 135
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 136
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 137
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 138
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 140
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 141
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 142
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 143
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 144
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 145
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 146
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 147
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 148
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 149
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 150
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 151
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 152
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 153
+"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 154
+"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 155
+"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 156
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 157
+"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 158
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 159
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 160
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 161
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 162
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 163
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 164
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 165
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 166
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 167
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 168
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 169
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 170
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 171
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 172
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 173
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 174
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 175
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 176
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 177
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 178
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 179
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 180
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 181
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 182
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 183
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 184
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 185
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 186
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 187
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 188
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 189
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 190
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 191
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 192
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 193
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 194
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 195
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 196
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 197
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 198
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 199
+"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 200
+"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uasset" 201
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 202
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 203
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 204
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 205
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 206
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 207
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 208
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 209
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 210
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 211
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 212
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 213
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 214
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 215
+"../../../Engine/Content/EditorResources/Bad.uasset" 216
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 217
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 218
+"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 219
+"../../../Engine/Content/EditorResources/SceneManager.uasset" 220
+"../../../Engine/Content/EditorResources/SmallFont.uasset" 221
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 222
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 223
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 224
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 225
+"../../../Engine/Content/EditorResources/S_FTest.uasset" 226
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 227
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 228
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 229
+"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 230
+"../../../Engine/Content/EditorResources/S_NavP.uasset" 231
+"../../../Engine/Content/EditorResources/S_Note.uasset" 232
+"../../../Engine/Content/EditorResources/S_Player.uasset" 233
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 234
+"../../../Engine/Content/EditorResources/S_RadForce.uasset" 235
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 236
+"../../../Engine/Content/EditorResources/S_SkyAtmosphere.uasset" 237
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 238
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 239
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 240
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 241
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 242
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 243
+"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 244
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 245
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 246
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 247
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 248
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 249
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 250
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 251
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 252
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 253
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 254
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 255
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 256
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 257
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 258
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 259
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 260
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 261
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 262
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 263
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 264
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 265
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 266
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 267
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 268
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 269
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 270
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 271
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 272
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 273
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 274
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 275
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 276
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 277
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 278
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 279
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 280
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 281
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 282
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 283
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 284
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 285
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 286
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 287
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 288
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 289
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 290
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 291
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 292
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 293
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 294
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 295
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 296
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 297
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 298
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 299
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 300
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 301
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 302
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 303
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 304
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 305
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 306
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 307
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 308
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 309
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse_TC_Masks.uasset" 310
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 311
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 312
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 313
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 314
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 315
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 316
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 317
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 318
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 319
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 320
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 321
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 322
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 323
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 324
+"../../../Engine/Content/EngineMaterials/HairDebugMaterial.uasset" 325
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 326
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 327
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 328
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 329
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 330
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 331
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 332
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 333
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 334
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 335
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 336
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 337
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 338
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 339
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 340
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 341
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uasset" 342
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 343
+"../../../Engine/Content/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.uasset" 344
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 345
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 346
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 347
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 348
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 349
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 350
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 351
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 352
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 353
+"../../../Engine/Content/EngineResources/Black.uasset" 354
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 355
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 356
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 357
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 358
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 359
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 360
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 361
+"../../../Engine/Content/EngineSounds/Master.uasset" 362
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 363
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 364
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 365
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 366
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 367
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 368
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 369
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 370
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 371
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 372
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 373
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 374
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 375
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 376
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 377
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 378
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 379
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 380
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 381
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 382
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 383
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 384
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 385
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 386
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 387
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 388
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 389
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 390
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 391
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 392
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 393
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 394
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 395
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 396
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 397
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 398
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 399
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 400
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 401
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 402
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 403
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 404
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/GemBlue.uasset" 405
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/GemGreen.uasset" 406
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/GemGreen_Sprite.uasset" 407
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/GemPurple.uasset" 408
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/GemPurple_Sprite.uasset" 409
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/GemRed.uasset" 410
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/GemRed_Sprite.uasset" 411
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Textures/Guy2.uasset" 412
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/Guy2_Sprite.uasset" 413
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Textures/Guy.uasset" 414
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Guy/Guy_Sprite.uasset" 415
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Textures/2DBackgroundTile.uasset" 416
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/Background.uasset" 417
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/Bee1.uasset" 418
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/Bee2.uasset" 419
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurningHouseGC1.uasset" 420
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurningHouseGC2.uasset" 421
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurningHouseR1.uasset" 422
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurningHouseR2.uasset" 423
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurningHouseRC1.uasset" 424
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurningHouseRC2.uasset" 425
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurntHouse.uasset" 426
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurntHouse1.uasset" 427
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurntHouse2.uasset" 428
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurntHouseC.uasset" 429
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurntHouseC1.uasset" 430
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurntHouseC2.uasset" 431
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurntTree.uasset" 432
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurntTreeHiveLeft.uasset" 433
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/BurntTreeHiveRight.uasset" 434
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/FireBall1.uasset" 435
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/Fireball2.uasset" 436
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/FireL1.uasset" 437
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/FireL2.uasset" 438
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/FireM1.uasset" 439
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/FireM2.uasset" 440
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/FireS1.uasset" 441
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/FireS2.uasset" 442
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/platform.uasset" 443
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/Platform2.uasset" 444
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/Platform3.uasset" 445
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFa1.uasset" 446
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFa2.uasset" 447
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFb1.uasset" 448
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFb2.uasset" 449
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFHLa1.uasset" 450
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFHLa2.uasset" 451
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFHLb1.uasset" 452
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFHLb2.uasset" 453
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFHRa1.uasset" 454
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFHRa2.uasset" 455
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFHRb1.uasset" 456
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TFHRb2.uasset" 457
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/Tree.uasset" 458
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TreeHiveLeft.uasset" 459
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TreeHiveRight.uasset" 460
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TunnelBack.uasset" 461
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TunnelEnd.uasset" 462
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/TunnelFront.uasset" 463
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 464
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Enum.uasset" 465
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Flipbook_Enum.uasset" 466
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Imposter_Enum.uasset" 467
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/EIntTypes.uasset" 468
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 469
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/EFloatTypes.uasset" 470
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 471
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/poem.uasset" 472
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text3.uasset" 473
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text4.uasset" 474
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text5.uasset" 475
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text6.uasset" 476
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text7.uasset" 477
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text8.uasset" 478
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 479
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 480
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 481
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 482
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 483
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 484
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 485
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 486
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 487
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 488
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 489
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 490
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text11.uasset" 491
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 492
+"../../../Engine/Content/Maps/Entry.umap" 493
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fire/FireL1_Sprite.uasset" 494
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fire/FireL2_Sprite.uasset" 495
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fire/FireL.uasset" 496
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fire/FireM1_Sprite.uasset" 497
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fire/FireM2_Sprite.uasset" 498
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fire/FireM.uasset" 499
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fire/FireS1_Sprite.uasset" 500
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fire/FireS2_Sprite.uasset" 501
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fire/FireS.uasset" 502
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Textures/BurningGrass.uasset" 503
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Grass_Dirt/BurningGrass_Sprite.uasset" 504
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Textures/BurntGrass.uasset" 505
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Grass_Dirt/BurntGrass_Sprite.uasset" 506
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset" 507
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Textures/Grass.uasset" 508
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Grass_Dirt/Grass_Sprite1.uasset" 509
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/Grass_BP.uasset" 510
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseGC1_Sprite.uasset" 511
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseGC2_Sprite.uasset" 512
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseGC_Flipbook.uasset" 513
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouseC1_Sprite.uasset" 514
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouseC2_Sprite.uasset" 515
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouseC_Flipbook1.uasset" 516
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouseC_Sprite.uasset" 517
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/HouseGC.uasset" 518
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/HouseGC_Sprite.uasset" 519
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/HouseGC_BP.uasset" 520
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseR1_Sprite.uasset" 521
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseR2_Sprite.uasset" 522
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseR_Flipbook.uasset" 523
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouse1_Sprite.uasset" 524
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouse2_Sprite.uasset" 525
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouse_Flipbook.uasset" 526
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurntHouse_Sprite.uasset" 527
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/HouseR.uasset" 528
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/HouseR_Sprite.uasset" 529
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/HouseR_BP.uasset" 530
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/BurntTree_Sprite.uasset" 531
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/Tree_Sprite.uasset" 532
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFa1_Sprite.uasset" 533
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFa2_Sprite.uasset" 534
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireA_Flipbook.uasset" 535
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFb1_Sprite.uasset" 536
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFb2_Sprite.uasset" 537
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireB_Flipbook1.uasset" 538
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/Tree_BP.uasset" 539
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/Maps/Map_BuiltData.uasset" 540
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Textures/Dirt.uasset" 541
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Grass_Dirt/Dirt_Sprite.uasset" 542
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/TunnelBack_Sprite.uasset" 543
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/TunnelEnd_Sprite.uasset" 544
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/TunnelFront_Sprite.uasset" 545
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/Background_Sprite.uasset" 546
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/cliff-text.uasset" 547
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Fire/FireL1.uasset" 548
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/Guy.uasset" 549
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/loading.uasset" 550
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/parkour-tutorial.uasset" 551
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/parkour-tutorial2.uasset" 552
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text1.uasset" 553
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text2.uasset" 554
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/soundtrack.uasset" 555
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/soundtrack_Cue.uasset" 556
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/Maps/Map.umap" 557
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseRC1_Sprite.uasset" 558
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseRC2_Sprite.uasset" 559
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/BurningHouseRC_Flipbook.uasset" 560
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Textures/HouseRC.uasset" 561
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Houses/HouseRC_Sprite.uasset" 562
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/HouseRC_BP.uasset" 563
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/BurntTreeHiveLeft_Sprite.uasset" 564
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFHLa1_Sprite.uasset" 565
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFHLa2_Sprite.uasset" 566
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireLeftHiveA_Flipbook2.uasset" 567
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFHLb1_Sprite.uasset" 568
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TFHLb2_Sprite.uasset" 569
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TreeFireLeftHiveB_Flipbook3.uasset" 570
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/Sprites/Trees/TreeHiveLeft_Sprite.uasset" 571
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScrollerBP/Blueprints/TreeHiveLeft_BP.uasset" 572
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/2DSideScroller/GemBlue_Sprite.uasset" 573
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text9.uasset" 574
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/Maps/map7.umap" 575
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/end.uasset" 576
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text10.uasset" 577
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/HUD/text12.uasset" 578
+"../../../../../../Users/elkar/OneDrive/Desktop/unreal games/Devastation/Content/Devastation/Maps/Map8.umap" 579
